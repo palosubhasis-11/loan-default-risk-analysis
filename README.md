@@ -13,7 +13,7 @@ This Tableau dashboard explores borrower behavior and identifies key factors dri
 - Home and Education loans perform better than Business loans.
 
 ###  Dashboard Preview
-![Dashboard Preview](Loan_Default_Risk_Analysis.png)
+![Dashboard Preview](<img width="2560" height="1600" alt="Dashboard mlproject" src="https://github.com/user-attachments/assets/9044f3bc-5317-45d9-a4b7-167387b625b7" />)
 
 
-Created by **Subhasis Pal** | Data Analytics Project | 2025
+Created by **Subhasis Palo** | Data Analytics Project | 2025
